@@ -1,2 +1,2 @@
 # documentacao
-{instalar} (docs/inst.md)
+[instalar](docs/inst.md)
