@@ -1,2 +1,2 @@
 # documentacao
-{instalar}(github.com/gustavogalaxids-create/w/blob/main/docs/inst.md)
+{instalar}(gustavogalaxids-create/w/blob/main/docs/inst.md)
